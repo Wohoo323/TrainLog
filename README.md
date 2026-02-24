@@ -1,16 +1,27 @@
-# train_log
+# TrainLog
 
-A new Flutter project.
+TrainLog is a mobile workout tracking application built with Flutter.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+TrainLog allows users to track their workouts and monitor weekly progress.
+Data is stored locally using the Hive database.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add workouts (gym, swim, run, bike)
+- Store workout data locally
+- Weekly statistics screen
+- Clean and simple UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Flutter
+- Dart
+- Hive (local database)
+- Material Design
+
+## Project Purpose
+
+This project was developed as part of my mobile application development studies.
+It demonstrates local data storage, state handling, and structured UI design in Flutter.
